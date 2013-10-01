@@ -67,7 +67,7 @@ The you may use `getWithParams` or `findWithParams` like so:
 
 ```scala
 val message = messages.getWithParams("my.greeting.message", Locale.ENGLISH, "Joe Bloggs", "awful")
-message == Some("Hello Joe Bloggs, you look awful")
+message == "Hello Joe Bloggs, you look awful"
 ```
 
 # License
