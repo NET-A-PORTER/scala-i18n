@@ -1,9 +1,0 @@
----
-language: scala
-script: "sbt test"
-jdk:
-- oraclejdk7
-- openjdk7
-scala:
-- 2.10.2
-- 2.9.3
