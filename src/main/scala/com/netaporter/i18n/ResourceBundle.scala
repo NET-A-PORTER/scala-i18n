@@ -3,7 +3,6 @@ package com.netaporter.i18n
 import java.util.{ResourceBundle => JResourceBundle, Locale}
 import scala.util.Try
 import scala.collection.JavaConverters._
-import java.text.MessageFormat
 
 /**
  * Date: 30/09/2013
