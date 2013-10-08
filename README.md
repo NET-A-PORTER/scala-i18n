@@ -1,11 +1,18 @@
 # scala-i18n
 
-[![Build Status](https://secure.travis-ci.org/NET-A-PORTER/scala-i18n.png?branch=master)](https://travis-ci.org/Net-A-Porter/scala-i18n)
+[![Build Status](https://secure.travis-ci.org/NET-A-PORTER/scala-i18n.png?branch=master)](https://travis-ci.org/NET-A-PORTER/scala-i18n)
 <!--
 [![Coverage Status](https://coveralls.io/repos/Net-A-Porter/scala-i18n/badge.png?branch=master)](https://coveralls.io/r/Net-A-Porter/scala-i18n)
 -->
 
 `scala-i18n` is a *very* thin Scala wrapper around Java's `java.util.ResourceBundle` to make it a bit nicer to use from Scala code.
+
+### SBT
+
+    resolvers += "bintray" at "http://jcenter.bintray.com"
+    
+    libraryDependencies += "com.netaporter" %% "scala-i18n" % "0.1"
+
 
 # Getting Started
 
