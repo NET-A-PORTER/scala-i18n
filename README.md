@@ -1,6 +1,6 @@
 # scala-i18n
 
-[![Build Status](https://secure.travis-ci.org/Net-A-Porter/scala-i18n.png?branch=master)](https://travis-ci.org/Net-A-Porter/scala-i18n)
+[![Build Status](https://secure.travis-ci.org/NET-A-PORTER/scala-i18n.png?branch=master)](https://travis-ci.org/Net-A-Porter/scala-i18n)
 <!--
 [![Coverage Status](https://coveralls.io/repos/Net-A-Porter/scala-i18n/badge.png?branch=master)](https://coveralls.io/r/Net-A-Porter/scala-i18n)
 -->
